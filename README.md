@@ -9,14 +9,13 @@ src="https://media.giphy.com/media/ZgTRcH0SbiLV1wolnR/giphy.gif" width="50"></h1
 </p> 
 
 <img align='right' src="https://media.giphy.com/media/oFvFtrhrmIFFe/giphy.gif" width="230">
-<p><em>Software Engineer student @ <a href="https://www.42.fr/">42 Paris</a><br>Seeking new opportunities in cybersecurity</a>
+<p><em>DevOps Intern @ <a href="https://datadome.co/">Datadome</a> | Software Engineer student @ <a href="https://www.42.fr/">42 Paris</a>
 </em></p>
 
 ### 🧠 About me:
 
 - 🏠 Living in Paris
 - 🇪🇸🇫🇷🇬🇧 Fluent in English, French and Spanish
-- 🌱 Currently learning cybersecurity
 - 🔭 Interested in DevOps and cybersecurity
 - 📄 Check out my CV <a href="https://abguimba.github.io/AbrahamGuimbaoCV.pdf"><img src="https://img.shields.io/badge/%F0%9F%93%84-AbrahamGuimbaoCV.pdf-green.svg" alt="CV"></a>
 - 🌐 Check out my website <a href="https://abguimba.carrd.co"><img src="https://img.shields.io/badge/%F0%9F%8C%90-abguimba.carrd.co-green.svg" alt="Website"></a>
@@ -26,7 +25,7 @@ src="https://media.giphy.com/media/ZgTRcH0SbiLV1wolnR/giphy.gif" width="50"></h1
 ```python
 abguimba = {
 	"code": ["C", "Python", "Go", "Bash", "HTML", "CSS", "JS"],
-	"tools": ["Unix", "Shell", "Ansible", "Docker", "Kubernetes", "CI/CD", "Jenkins", "AWS", "VCS", "Agile"],
+	"tools": ["Unix", "Shell", "Ansible", "Terraform", "Docker", "Kubernetes", "CI/CD", "Jenkins", "AWS", "VCS", "Agile"],
 }
 ```
 
