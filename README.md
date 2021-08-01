@@ -9,7 +9,7 @@ src="https://media.giphy.com/media/ZgTRcH0SbiLV1wolnR/giphy.gif" width="50"></h1
 </p> 
 
 <img align='right' src="https://media.giphy.com/media/oFvFtrhrmIFFe/giphy.gif" width="230">
-<p><em>DevOps Intern @ <a href="https://datadome.co/">Datadome</a> | Student @ <a href="https://www.42.fr/">42 Paris</a>
+<p><em>DevOps Engineer @ <a href="https://datadome.co/">Datadome</a> | Student @ <a href="https://www.42.fr/">42 Paris</a>
 </em></p>
 
 ### 🧠 About me:
