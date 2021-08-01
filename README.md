@@ -16,7 +16,7 @@ src="https://media.giphy.com/media/ZgTRcH0SbiLV1wolnR/giphy.gif" width="50"></h1
 
 - 🏠 Living in Paris
 - 🇪🇸🇫🇷🇬🇧 Fluent in English, French and Spanish
-- 🔭 Interested in DevOps and cybersecurity
+- 🔭 Passionate about DevOps/SRE, Cloud technologies, Infrastructure and cybersecurity.
 - 📄 Check out my CV <a href="https://abguimba.github.io/AbrahamGuimbaoCV.pdf"><img src="https://img.shields.io/badge/%F0%9F%93%84-AbrahamGuimbaoCV.pdf-green.svg" alt="CV"></a>
 - 🌐 Check out my website <a href="https://abguimba.carrd.co"><img src="https://img.shields.io/badge/%F0%9F%8C%90-abguimba.carrd.co-green.svg" alt="Website"></a>
 
@@ -25,7 +25,7 @@ src="https://media.giphy.com/media/ZgTRcH0SbiLV1wolnR/giphy.gif" width="50"></h1
 ```python
 abguimba = {
 	"code": ["C", "Python", "Go", "Bash", "HTML", "CSS", "JS"],
-	"tools": ["Unix", "Shell", "Ansible", "Terraform", "Docker", "Kubernetes", "CI/CD", "Jenkins", "AWS", "VCS", "Agile"],
+	"tooling": ["Unix", "Shell", "Ansible", "Terraform", "Docker", "Kubernetes", "CI/CD", "Jenkins", "AWS", "VCS", "GCP", "Agile"],
 }
 ```
 
