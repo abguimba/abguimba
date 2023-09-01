@@ -1,34 +1,29 @@
-<h1> Hi, I'm Abraham Guimbao ! <img 
-src="https://media.giphy.com/media/ZgTRcH0SbiLV1wolnR/giphy.gif" width="50"></h1>
+<h1> Hello, I'm Abraham Guimbao !
 
-<p>
-	<a href="https://www.linkedin.com/in/abraham-guimbao-parra"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abraham-guimbao-parra" alt="LinkedIn"></a>
-	<a href="https://github.com/abguimba"><img src="https://img.shields.io/badge/-Github-222222?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/abguimba" alt="GitHub"></a>
-	<a href="https://stackoverflow.com/users/10463714/abraham-guimbao"><img src="https://img.shields.io/badge/-StackOverflow-222222?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/10463714/abraham-guimbao" alt="StackOverflow"></a>
-	<a href="https://twitter.com/abguimba"><img src="https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/abguimba/" alt="Twitter"></a> <a href="mailto:abrahamguimbao@gmail.com"><img src="https://img.shields.io/badge/-abrahamguimbao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abrahamguimbao@gmail.com" alt="Email"></a> <a href="tel:+33695656958"><img src="https://img.shields.io/badge/%E2%98%8E-0695656958-lightgrey.svg" alt="Phone"></a>
-</p> 
+  <p>
+    <a href="https://www.linkedin.com/in/abraham-guimbao-parra"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abraham-guimbao-parra" alt="LinkedIn"></a>
+    <a href="mailto:abrahamguimbao@gmail.com"><img src="https://img.shields.io/badge/-abrahamguimbao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abrahamguimbao@gmail.com" alt="Email"></a>
+    <a href="tel:+33(0)611361822"><img src="https://img.shields.io/badge/%E2%98%8E-+33(0)611361822-lightgrey.svg" alt="Phone"></a>
+  </p>
 
-<img align='right' src="https://media.giphy.com/media/oFvFtrhrmIFFe/giphy.gif" width="230">
-<p><em>DevOps Engineer @ <a href="https://datadome.co/">Datadome</a> | Studied @ <a href="https://www.42.fr/">42 Paris</a>
-</em></p>
+  <p><em>DevOps - SRE</em></p>
 
-### 🧠 About me:
+  ### 🤓 About me:
 
-- 🏠 Living in Paris
-- 🇬🇧🇫🇷🇪🇸 Fluent in English, French and Spanish
-- 🔭 Passionate about DevOps/SRE, Cloud technologies, Infrastructure and cybersecurity.
-- 📄 Check out my CV <a href="https://abguimba.github.io/AbrahamGuimbaoCV.pdf"><img src="https://img.shields.io/badge/%F0%9F%93%84-AbrahamGuimbaoCV.pdf-green.svg" alt="CV"></a>
-- 🌐 Check out my website <a href="https://abguimba.carrd.co"><img src="https://img.shields.io/badge/%F0%9F%8C%90-abguimba.carrd.co-green.svg" alt="Website"></a>
+  - 🏠 Based in Spain.
+  - 🗣 Full Fluency in English, French and Spanish.
+  - 🏫 Studied @ <a href="https://www.42.fr/">42 Paris</a>
+  - 🖥️ Multiple Back-end/DevOps/SRE xp.
+  - ⭐ Passionate about DevOps/SRE, Cloud & On-Premise technologies, Blockchain, Cyber Security and Video Game development.
 
-### ⚡️ Tech stack:
+  ### ⚙️ Tech stack:
 
-```python
-abguimba = {
-	"code": ["C", "Python", "Go", "Bash", "HTML", "CSS", "JS"],
-	"tooling": ["Unix", "Shell", "Ansible", "Terraform", "Docker", "Kubernetes", "CI/CD", "Jenkins", "AWS", "VCS", "GCP", "Agile"],
-}
-```
+  ```python
+  abguimba = {
+  "tooling": ["AWS", "GCP", "Azure", "OVH", "Scaleway", "On-Premise", "Ansible", "Terraform", "Puppet", "Chef", "Docker", "K8S", "Unix", "Linux", "Containerization", "Virtualization", "Storage", "Serverless", "VCS", "Agile", "DevSecOps", "TDD", "CI/CD", "Jenkins", "GithubCI", "ArgoCD", "Automation", "Python", "Go", "C/C++", "Bash", "JS", "SQL", "ES", "Grafana", "Kibana", "Prometheus", "Kafka", "InfluxDB", "RabbitMQ", "Dynatrace", "Logzio", "SonarQube", "Bitrise", "REST API", "HTTP", "OSI", "On-Call", "Monitoring", "Logging", "Alerting"],
+  }
+  ```
 
-<p align="center">
-	<a href="https://www.codewars.com/users/abguimba"><img src="https://www.codewars.com/users/abguimba/badges/small"></a>
-</p>
+  <p align="center">
+    <a href="https://www.codewars.com/users/abguimba"><img src="https://www.codewars.com/users/abguimba/badges/small"></a>
+  </p>
