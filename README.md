@@ -2,11 +2,11 @@
 
   <p>
     <a href="https://www.linkedin.com/in/abraham-guimbao-parra"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abraham-guimbao-parra" alt="LinkedIn"></a>
-    <a href="mailto:abrahamguimbao@gmail.com"><img src="https://img.shields.io/badge/-abrahamguimbao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abrahamguimbao@gmail.com" alt="Email"></a>
     <a href="tel:+34659203892"><img src="https://img.shields.io/badge/%E2%98%8E-+34659203892-lightgrey.svg" alt="Phone"></a>
+    <a href="mailto:abrahamguimbao@gmail.com"><img src="https://img.shields.io/badge/-abrahamguimbao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abrahamguimbao@gmail.com" alt="Email"></a>
   </p>
 
-  <p><em>DevOps - SRE</em></p>
+  <p><em>DevOps Engineer / Site Reliability Engineer</em></p>
 
   ### 🤓 About me:
 
