@@ -3,18 +3,18 @@
   <p>
     <a href="https://www.linkedin.com/in/abraham-guimbao-parra"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abraham-guimbao-parra" alt="LinkedIn"></a>
     <a href="mailto:abrahamguimbao@gmail.com"><img src="https://img.shields.io/badge/-abrahamguimbao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abrahamguimbao@gmail.com" alt="Email"></a>
-    <a href="tel:+33(0)611361822"><img src="https://img.shields.io/badge/%E2%98%8E-+33(0)611361822-lightgrey.svg" alt="Phone"></a>
+    <a href="tel:+34659203892"><img src="https://img.shields.io/badge/%E2%98%8E-+34659203892-lightgrey.svg" alt="Phone"></a>
   </p>
 
   <p><em>DevOps - SRE</em></p>
 
   ### 🤓 About me:
 
-  - 🏠 Based in Spain.
+  - 🏠 Based in Paris, France.
   - 🗣 Full Fluency in English, French and Spanish.
   - 🏫 Studied @ <a href="https://www.42.fr/">42 Paris</a>
   - 🖥️ Multiple Back-end/DevOps/SRE xp.
-  - ⭐ Passionate about DevOps/SRE, Cloud & On-Premise technologies, Blockchain, Cyber Security and Video Game development.
+  - ⭐ Passionate about DevOps/SRE, Cloud & On-Premise technologies, Blockchain, Cyber Security, Video Games and Video Game development.
 
   ### ⚙️ Tech stack:
 
