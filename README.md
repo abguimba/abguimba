@@ -12,7 +12,7 @@
   - 🏠 Based in Spain.
   - 🗣 Fluent in English, French and Spanish.
   - 🏫 Studied @ <a href="https://www.42.fr/">42 Paris</a>
-  - 🖥️ Multiple Back-end/DevOps/SRE xp.
+  - 🖥️ Curious, hard-working and proactive individual with extensive DevOps Engineer/Site Reliability Engineer/Back-end Engineer experience.
   - ⭐ Passionate about DevOps/SRE (Cloud & On-Premise), Web3/Blockchain, CyberSec, OSS, and Video Game development.
 
   ### ⚙️ Tech stack:
