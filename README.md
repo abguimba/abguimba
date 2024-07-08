@@ -2,7 +2,6 @@
 
   <p>
     <a href="https://www.linkedin.com/in/abraham-guimbao-parra"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abraham-guimbao-parra" alt="LinkedIn"></a>
-    <a href="tel:+33695656958"><img src="https://img.shields.io/badge/%E2%98%8E-+33695656958-lightgrey.svg" alt="Phone"></a>
     <a href="mailto:abrahamguimbao@pm.me"><img src="https://img.shields.io/badge/-abrahamguimbao@pm.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abrahamguimbao@pm.me" alt="Email"></a>
   </p>
 
