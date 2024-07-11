@@ -1,28 +1,21 @@
-<h1> Hello, I'm Abraham Guimbao!
+<div align="center">
+  <!-- My Site button -->
+  <a href="https://abrahamguimbao.uwu.ai" target="_blank" style="text-decoration: none;">
+    <div style="display: inline-block; padding: 15px 30px; font-size: 20px; color: white; background-color: #2196F3; border-radius: 25px; font-weight: bold;">
+      Visit My Site
+    </div>
+  </a>
+</div>
 
-  <p>
-    <a href="https://www.linkedin.com/in/abraham-guimbao-parra"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abraham-guimbao-parra" alt="LinkedIn"></a>
-    <a href="mailto:abrahamguimbao@pm.me"><img src="https://img.shields.io/badge/-abrahamguimbao@pm.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abrahamguimbao@pm.me" alt="Email"></a>
-  </p>
+---
 
-  <p><em>DevOps Engineer / Site Reliability Engineer</em></p>
+<div align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abguimba&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages">
 
-  ### 🤓 About me:
-
-  - 🏠 Based in Spain.
-  - 🗣 Fluent in English, French and Spanish.
-  - 🏫 Studied @ <a href="https://www.42.fr/">42 Paris</a>
-  - 🖥️ Curious, hard-working and proactive individual with extensive DevOps Engineer/Site Reliability Engineer/Back-end Engineer experience.
-  - ⭐ Passionate about DevOps/SRE (Cloud & On-Premise), Web3/Blockchain, CyberSec, OSS, and Video Game development.
-
-  ### ⚙️ Tech stack:
-
-  ```python
-  abguimba = {
-  "tooling": ["AWS", "GCP", "Azure", "OVH", "Scaleway", "Cloud", "On-Premise", "Ansible", "Terraform", "Puppet", "Chef", "Docker", "Kubernetes", "Unix", "Linux", "Containerization", "Virtualization", "Storage", "Serverless", "VCS", "Agile", "DevSecOps", "TDD", "CI/CD", "Jenkins", "GithubCI", "ArgoCD", "Automation", "Python", "Go", "C/C++", "Bash", "JS", "Typescript", "SQL", "ES", "Grafana", "Kibana", "Prometheus", "Kafka", "InfluxDB", "RabbitMQ", "Dynatrace", "Logzio", "SonarQube", "Bitrise", "REST API", "HTTP", "OSI", "On-Call", "Monitoring", "Logging", "Alerting"],
-  }
-  ```
-
-  <p align="center">
-    <a href="https://www.codewars.com/users/abguimba"><img src="https://www.codewars.com/users/abguimba/badges/small"></a>
-  </p>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=abguimba&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abguimba&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
+</div>
